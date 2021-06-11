@@ -1,0 +1,16 @@
+{
+    "name": "DoubTech.EquationEvaluator",
+    "rootNamespace": "",
+    "references": [
+        "DoubTech.EquationEvaluator.Lib"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

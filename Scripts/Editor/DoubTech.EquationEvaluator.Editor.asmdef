@@ -1,0 +1,19 @@
+{
+    "name": "DoubTech.EquationEvaluator.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:18934414c0b97b140a310c462ab943a7",
+        "GUID:485861a7cbd69ee40be6ae758d0168a2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
